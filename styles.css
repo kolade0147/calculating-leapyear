@@ -1,0 +1,25 @@
+body{
+	background-color: blue;
+	text-align: center;
+	margin: 0;
+	
+}
+
+input{
+	width: 400px;
+	height: 30px;
+	border-radius: 5px;
+	}
+	
+	#year-btn{
+		font-family: italic;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: white;
+background: #00FF00;
+height: 30px;
+width: 160px;
+border-radius: 5px;
+		
+	}
